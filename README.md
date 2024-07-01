@@ -20,6 +20,6 @@ Gõ: `node`
 
 Tiếp tục: `require('crypto').randomBytes(64).toString('hex')`
 
-Cần 2 kết quả, sau đó dán ACCESS_TOKEN_SECRET và REFRESH_TOKEN_SECRET trong ".env".
+Cần 2 kết quả, sau đó dán 2 kết quả đó vào ACCESS_TOKEN_SECRET và REFRESH_TOKEN_SECRET trong ".env".
 
 ### Chạy `npm run dev` để bắt đầu.
