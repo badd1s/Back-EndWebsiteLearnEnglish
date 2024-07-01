@@ -22,4 +22,8 @@ Tiếp tục: `require('crypto').randomBytes(64).toString('hex')`
 
 Cần 2 kết quả, sau đó dán 2 kết quả đó vào ACCESS_TOKEN_SECRET và REFRESH_TOKEN_SECRET trong ".env".
 
+#### Liên kết với MongoDB 
+mongodb+srv://`username:`password`@cluster0.hsw6mzq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
 ### Chạy `npm run dev` để bắt đầu.
