@@ -6,11 +6,13 @@
 
 ### Tạo file mới ".env" với nội dung như sau
 
+```
 NODE_ENV = development \
 ACCESS_TOKEN_SECRET = {dán vào đây token mới} \
 REFRESH_TOKEN_SECRET = {dán vào đây token mới} \
 DATABASE_URI = {dán vào đây liên kết với CSDL ở MongoDB} \
 PORT = 3500
+```
 
 #### Cách tạo token mới
 
